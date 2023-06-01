@@ -9,6 +9,6 @@ Downloaded starter code provided by Skillcrush and edited the css background-col
 - using media queries
 - Chrome DevTools
 
-
+[**Live Practice Exercise Here**](https://gabrielapal.github.io/Colors-Starter/)
 
 ![image](https://github.com/gabrielapal/Colors-Starter/assets/127886470/a28a9d5f-3246-4f06-8e11-a86d7ee96971)
