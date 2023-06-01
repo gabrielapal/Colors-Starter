@@ -2,7 +2,9 @@
 
 Skillcrush coding responsive websites practice- working with media queries.
 
-Downloaded starter code provided by Skillcrush and edited the css background-color properties of each ID for mobile (main), tablet and desktop styles. The colors of the columns change when the browser width changes.
+Downloaded starter code provided by Skillcrush and edited the css background-color properties and size of columns of each ID for mobile (main), tablet and desktop styles. The colors of the columns change when the browser width changes.
+
+
 
 ### Skills practiced
 
