@@ -1,4 +1,4 @@
-# Setting Different Background Colors for Phones and Tablets
+# Setting Different Background Colors for Phones, Tablets and Desktops
 
 Skillcrush coding responsive websites practice- working with media queries.
 
